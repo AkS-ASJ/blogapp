@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52944ac5-8b87-4741-b7d6-9d3d00bf8cc8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LyY1EEpUV5sXMl3WdZsrRUvEkJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.13.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.11.18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tandi/IdeaProjects/bloglist&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;C:/Users/tandi/IdeaProjects/bloglist/node_modules/jest&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Program Files/nodejs/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;C:\\Program Files\\nodejs\\npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tandi\IdeaProjects\bloglist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.All Tests">
+    <configuration name="All Tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="total likes" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/likesSum.test.js" />
+      <test-names>
+        <test-name value="total likes" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.All Tests" />
+        <item itemvalue="Jest.total likes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52944ac5-8b87-4741-b7d6-9d3d00bf8cc8" name="Changes" comment="" />
+      <created>1676844572679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676844572679</updated>
+      <workItem from="1676844573727" duration="439000" />
+      <workItem from="1676974261802" duration="7258000" />
+      <workItem from="1676986826134" duration="674000" />
+      <workItem from="1676987522222" duration="1133000" />
+      <workItem from="1676988701559" duration="3976000" />
+      <workItem from="1677003893625" duration="4000" />
+      <workItem from="1677007571813" duration="556000" />
+      <workItem from="1677008143355" duration="10396000" />
+      <workItem from="1677019173762" duration="501000" />
+      <workItem from="1677021429666" duration="78000" />
+      <workItem from="1677091854281" duration="292000" />
+      <workItem from="1677100697997" duration="5867000" />
+      <workItem from="1677150935662" duration="6106000" />
+      <workItem from="1677164542957" duration="7981000" />
+      <workItem from="1677174187321" duration="7000" />
+      <workItem from="1677357851032" duration="364000" />
+      <workItem from="1677429829178" duration="9898000" />
+      <workItem from="1677531650153" duration="78000" />
+      <workItem from="1677540043713" duration="892000" />
+      <workItem from="1677545366794" duration="2750000" />
+      <workItem from="1677560568362" duration="167000" />
+      <workItem from="1677686305878" duration="758000" />
+      <workItem from="1677695291332" duration="1284000" />
+      <workItem from="1677720784012" duration="3178000" />
+      <workItem from="1677728416620" duration="18000" />
+      <workItem from="1677729702958" duration="315000" />
+      <workItem from="1677863552889" duration="1739000" />
+      <workItem from="1677872332623" duration="10000" />
+      <workItem from="1677872808341" duration="138000" />
+      <workItem from="1677943342073" duration="2996000" />
+      <workItem from="1677986244822" duration="9920000" />
+      <workItem from="1678011447514" duration="1469000" />
+      <workItem from="1678269689674" duration="11000" />
+      <workItem from="1680710123726" duration="616000" />
+      <workItem from="1680793795340" duration="7000" />
+      <workItem from="1680978874488" duration="8000" />
+      <workItem from="1680979216246" duration="314000" />
+      <workItem from="1680979605304" duration="1318000" />
+      <workItem from="1680995590379" duration="885000" />
+      <workItem from="1681001888857" duration="7164000" />
+      <workItem from="1681231418025" duration="1160000" />
+      <workItem from="1681249645833" duration="2644000" />
+      <workItem from="1681324011200" duration="1284000" />
+      <workItem from="1681331586819" duration="3696000" />
+      <workItem from="1681337702347" duration="1008000" />
+      <workItem from="1681340194941" duration="49000" />
+      <workItem from="1681350870254" duration="775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+</project>
