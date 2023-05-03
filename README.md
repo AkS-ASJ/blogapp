@@ -1,6 +1,6 @@
 Blogapp from Full Stack Open 
 
-You can download and try it, just add an .env file.
+You can download and try it, just add a .env file.
 
 For the frontend please check the repository named blogapp-frontend.
 
